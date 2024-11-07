@@ -11,47 +11,47 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f9;
+    background-color: #e0f7fa; /* Arka plan rengi güncellendi */
     color: #333;
   }
   
   header {
-    background-color: #0078d4;
+    background-color: #ff4081; /* Üst kısım rengi güncellendi */
     width: 100%;
     text-align: center;
-    padding: 1rem;
+    padding: 1.5rem; /* Daha fazla boşluk */
     color: white;
   }
   
   h1 {
-    font-size: 2rem;
+    font-size: 2.5rem; /* Yazı boyutu büyütüldü */
   }
   
   main {
     text-align: center;
-    margin: 2rem 0;
+    margin: 2.5rem 0;
   }
   
   button {
-    background-color: #0078d4;
+    background-color: #ff4081; /* Düğme rengi güncellendi */
     color: white;
     border: none;
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
+    padding: 0.7rem 1.2rem; /* Daha geniş düğme */
+    font-size: 1.1rem;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 8px;
     transition: background-color 0.3s;
   }
   
   button:hover {
-    background-color: #005a9e;
+    background-color: #d81b60; /* Düğme hover rengi */
   }
   
   footer {
     margin-top: auto;
     text-align: center;
-    padding: 1rem;
-    font-size: 0.8rem;
+    padding: 1.2rem;
+    font-size: 0.9rem;
     color: #666;
   }
   
